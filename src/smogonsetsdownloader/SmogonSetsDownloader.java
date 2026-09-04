@@ -12,7 +12,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Wout Heijnen
  */
 public class SmogonSetsDownloader {
 

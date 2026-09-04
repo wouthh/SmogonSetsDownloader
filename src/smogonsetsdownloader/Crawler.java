@@ -27,7 +27,6 @@ import org.json.*;
 
 /**
  *
- * @author Wout Heijnen
  */
 public class Crawler {
 
